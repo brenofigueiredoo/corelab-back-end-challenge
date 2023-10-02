@@ -8,7 +8,7 @@
 
 <br />
 
-* ***Apresentação do uso da API com o Front End*** => [Clique aqui](https://share.vidyard.com/watch/AMU2Fv6xGATGjqtPcuLwms?) e confira a proposta do projeto.
+* ***Apresentação do uso da API com o Front End*** => [Clique aqui](https://www.loom.com/share/8b5b55b9a524487fa0c3447525f5cc28?sid=0c462121-af5c-4140-8314-caf138107b34) e confira a proposta do projeto.
 
 * ***Diagrama ER*** => [Clique aqui](https://github.com/brenofigueiredoo/corelab-back-end-challenge/blob/main/diagrama.png) e acesse o diagrama do Projeto.
 
